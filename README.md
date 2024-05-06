@@ -1,9 +1,4 @@
-# Linux-File-IO-Systems-locking
-Ex07-Linux File-IO Systems-locking
-
-Developed By: KEERTHANA S
-
-Reg No: 212223240070
+# EX-07 Linux-File-IO-Systems-locking
 
 # AIM:
 To Write a C program that illustrates files copying and locking
@@ -23,6 +18,9 @@ Write the C Program using Linux IO Systems locking
 Execute the C Program for the desired output. 
 
 # PROGRAM:
+Developed By: KEERTHANA S
+
+Reg No: 212223240070
 
 ## 1.To Write a C program that illustrates files copying 
 ```
